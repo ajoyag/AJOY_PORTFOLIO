@@ -1,2 +1,2 @@
 # AJOY_PORTFOLIO
-My Photfolio Website 
+My Portfolio Website 
